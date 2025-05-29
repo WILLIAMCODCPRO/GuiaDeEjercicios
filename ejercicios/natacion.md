@@ -9,3 +9,6 @@ Puedes presumir tu cuerpo asi que genial
 ## Instrucciones
 1. Contratar a un instructor de Pilates
 
+## Consejos
+- Usa gafas de natacion
+
