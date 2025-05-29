@@ -8,3 +8,6 @@ Ayuda cuidar la salud
 
 ## Instrucciones
 1. Buscar un instructor
+
+## Consejos
+- Toma mucha agua
