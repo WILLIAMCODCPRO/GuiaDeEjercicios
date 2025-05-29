@@ -8,3 +8,6 @@ Los pilates son buenos para la salud
 
 ## Instrucciones
 1. Contratar a un instructor de Pilates
+
+## Consejos
+- No contartar in mal insturctor
