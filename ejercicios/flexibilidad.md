@@ -8,3 +8,6 @@ La flexibilidad es genial
 
 ## Instrucciones
 1. Ver videos en youtebe
+
+## Consejos
+- No te fuerzes mucho o te rompes
