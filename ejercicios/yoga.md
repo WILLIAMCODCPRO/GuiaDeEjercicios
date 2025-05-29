@@ -8,3 +8,6 @@ El yoga es genial
 
 ## Instrucciones
 1. Contratar a un instructor de yoga
+
+## Consejos
+- Tener paciencia
