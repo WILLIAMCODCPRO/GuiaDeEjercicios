@@ -9,3 +9,5 @@ Ayuda a tener una mejor circulacion
 ## Instrucciones
 1. Busca el equipamiento necesario
 
+## Consejos
+- Tomar mucha agua
