@@ -8,3 +8,6 @@ Deporte algo violento pero genial
 
 ## Instrucciones
 1. Buscar alguien que se deje golpear
+
+## Consejos
+- No seas arrogante
