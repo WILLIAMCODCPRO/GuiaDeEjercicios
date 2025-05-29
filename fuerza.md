@@ -9,3 +9,6 @@ Los ejercicios de fuerza son cool
 ## Instrucciones
 1. Levantar pesas
 
+## Consejos
+- No levantar peso qu no seas capas
+
