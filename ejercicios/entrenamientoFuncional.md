@@ -5,3 +5,6 @@ Ayuda cuidar la salud
 
 ## Beneficios
 - Un mejor cuerpo
+
+## Instrucciones
+1. Buscar un instructor
