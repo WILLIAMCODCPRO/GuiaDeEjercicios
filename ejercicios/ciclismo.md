@@ -8,3 +8,6 @@ Ganas mejores piernas
 
 ## Instrucciones
 1. Comprar una bicileta
+
+## Consejos
+- Usa casco
