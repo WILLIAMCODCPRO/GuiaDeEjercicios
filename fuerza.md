@@ -6,3 +6,6 @@ Los ejercicios de fuerza son cool
 ## Beneficios
 - Impresionar a tus amigos con tu increible fuerza
 
+## Instrucciones
+1. Levantar pesas
+
